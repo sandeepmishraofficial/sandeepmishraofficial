@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h3 align="left"># Sandeep Mishra's Developer Portfolio<br><br>## About Me<br>Hi there! 👋 My name is Sandeep Mishra, and I'm a developer and cybersecurity engineer/analyst. I hold a Bachelor's degree in Computer Applications (BCA) and have a passion for creating secure and efficient software solutions.<br><br>## Skills<br>- Programming Languages: Python, JavaScript, HTML,CSS<br>- Cybersecurity: Network Security, Ethical Hacking, Incident Response<br><br>## Contact Me<br>- LinkedIn: [Sandeep Mishra on LinkedIn](https://www.linkedin.com/in/sandeepmishraofficial)<br>- Email: sandeepmishrawork@outlook.com<br><br>Feel free to connect with me if you have any questions or if you're interested in collaborating on projects!</h3>
 
 ###
 
