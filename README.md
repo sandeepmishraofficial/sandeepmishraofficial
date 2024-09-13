@@ -1,5 +1,5 @@
 <h1>नमस्ते (Namaste) 🙏🏻 , I'm Sandeep Mishra   !
-<h3 align="left"># Sandeep Mishra<br><br>## About Me<br>Hi there! 👋 My name is Sandeep Mishra, and I'm a Full Stack Developer. I hold a Bachelor's degree in Computer Applications (BCA) and have a passion for creating secure and efficient software solutions.<br><br>## Skills<br>- Programming Languages: Python, JavaScript, HTML,CSS<br>- <br><br>## Contact Me<br>- LinkedIn: [Sandeep Mishra on LinkedIn](https://www.linkedin.com/in/sandeepmishraofficial)<br>- Email: mailto:(sandeepmishrawork@outlook.com)<br><br>Feel free to connect with me if you have any questions or if you're interested in collaborating on projects!</h3>
+<h3 align="left"># Sandeep Mishra<br><br>## About Me<br>Hi there! 👋 My name is Sandeep Mishra, and I'm a Full Stack Developer. I hold a Bachelor's degree in Computer Applications (BCA) and have a passion for creating secure and efficient software solutions.<br><br>## Skills<br>- Programming Languages: Python, JavaScript, HTML,CSS<br>- <br><br>## Contact Me<br>- LinkedIn: [Sandeep Mishra on LinkedIn](https://www.linkedin.com/in/sandeepmishraofficial)<br>- Email: <a href="mailto:sandeepmishrawork@outlook.com"></a><br><br>Feel free to connect with me if you have any questions or if you're interested in collaborating on projects!</h3>
 
 ###
 
