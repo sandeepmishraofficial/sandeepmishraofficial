@@ -1,5 +1,5 @@
 <h1>नमस्ते (Namaste) 🙏🏻 , I'm Sandeep Mishra   !
-<h3 align="left"># Sandeep Mishra<br><br>## About Me<br>Hi there! 👋 My name is Sandeep Mishra, and I'm a Full Stack Developer. I hold a Bachelor's degree in Computer Applications (BCA) and have a passion for creating secure and efficient software solutions.<br><br>## Skills<br>- Programming Languages: Java,  Python, JavaScript, HTML,CSS<br>-Framwork:Spring Boot,  Django  <br>- Database: PostgreSQL, Sqlite, MySQL<br><br>## Contact Me<br>- LinkedIn: [Sandeep Mishra on LinkedIn](https://www.linkedin.com/in/sandeepmishraofficial)<br>- Email: <a href="mailto:sandeepmishrawork@outlook.com">sandeepmishrawork@outlook.com</a><br><br>Feel free to connect with me if you have any questions or if you're interested in collaborating on projects!</h3>
+<h3 align="left"># Sandeep Mishra<br><br>## About Me<br>Hi there! 👋 My name is Sandeep Mishra, and I'm a Full Stack Developer. I hold a Bachelor's degree in Computer Applications (BCA) and have a passion for creating secure and efficient software solutions.<br><br>## Skills<br>- Programming Languages: Java,  Python, JavaScript, HTML, CSS<br>-Framwork: Spring Boot, JPA, Hibernate <br>- Database: PostgreSQL,  MySQL<br><br>## Contact Me<br>- LinkedIn: [Sandeep Mishra on LinkedIn](https://www.linkedin.com/in/sandeepmishraofficial)<br>- Email: <a href="mailto:sandeepmishrawork@outlook.com">sandeepmishrawork@outlook.com</a><br><br>Feel free to connect with me if you have any questions or if you're interested in collaborating on projects!</h3>
 
 ###
 
@@ -19,13 +19,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+    <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot logo" />
 
 </div>
