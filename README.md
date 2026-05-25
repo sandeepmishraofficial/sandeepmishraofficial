@@ -81,4 +81,4 @@
 
 ---
 
-<p align="center">⚡ <i>"Data is the new oil — and I know how to refine it."</i></p>
+<p align="center">⚡ <i>"SANDEEP MISHRA @2026"</i></p>
