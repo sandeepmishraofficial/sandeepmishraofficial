@@ -66,15 +66,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepmishraofficial&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepmishraofficial&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
-
----
-
 ## 🤝 Connect with Me
 
 <div align="left">
