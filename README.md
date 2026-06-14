@@ -24,7 +24,6 @@
 ### 📌 Languages & Querying
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 📊 Data Analysis & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -61,8 +60,12 @@
 ### 🗃️ SQL Business Insights
 > Wrote complex SQL queries (JOINs, CTEs, Window Functions) to extract business insights from relational databases.
 
-### 📈 Student Performance Analysis
-> Built a Jupyter Notebook project analyzing student performance data — correlation analysis, visualizations, and a summary report.
+### 🏏 IPL Analysis Dashboard (2008–2025)
+
+> Built an interactive Power BI dashboard using IPL historical data (2008–2025) to analyze team performance, season trends, match results, and venue insights. Included interactive filters and visualizations to make data exploration simple and effective.
+
+🔗 **Live Project:**
+https://app.powerbi.com/groups/me/reports/402e3dac-cd73-4b5b-ba16-a3503b3f24a8/d2a1f8cd092a905ddbe0?experience=power-bi
 
 ---
 
